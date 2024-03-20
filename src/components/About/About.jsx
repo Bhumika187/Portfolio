@@ -27,20 +27,18 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>UI Designer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              I have designed multiple responsive projects and eager to work on more.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Fast Learner</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              It's a valuable skill that helps adapt to new situations quickly and excel in various areas of life.
               </p>
             </div>
           </li>

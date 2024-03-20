@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Tic-Tac-Toe",
+    "imageSrc": "projects/img6.jpg",
+    "description": "This project provides a basic playable Tic-Tac-Toe game.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://bhumika187.github.io/Tic-tac-toe/",
+    "source": "https://github.com/Bhumika187"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "THRIFTY",
+    "imageSrc": "projects/img7.jpg",
+    "description": "An online Thrift Store where you can filter products accordingly.",
+    "skills": ["CSS","JS","React"],
+    "demo": "https://bhumika187.github.io/Thrifty/",
+    "source": "https://github.com/Bhumika187"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "CALCI",
+    "imageSrc": "projects/img8.jpg",
+    "description": "Performs basic arithmetic operations, a text input field to display the result.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://bhumika187.github.io/Calci/",
+    "source": "https://github.com/Bhumika187"
   }
 ]
