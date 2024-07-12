@@ -10,7 +10,7 @@
   {
     "title": "THRIFTY",
     "imageSrc": "projects/img7.jpg",
-    "description": "An online Thrift Store where you can filter products.",
+    "description": "An online Thrift Store .",
     "skills": ["CSS","JS","React.js"],
     "demo": "https://bhumika187.github.io/Thrifty/",
     "source": "https://github.com/Bhumika187"
