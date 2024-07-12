@@ -10,7 +10,7 @@
   {
     "title": "THRIFTY",
     "imageSrc": "projects/img7.jpg",
-    "description": "An online Thrift Store where you can filter products accordingly.",
+    "description": "An online Thrift Store where you can filter products.",
     "skills": ["CSS","JS","React.js"],
     "demo": "https://bhumika187.github.io/Thrifty/",
     "source": "https://github.com/Bhumika187"
@@ -19,7 +19,7 @@
     "title": "MULTI PAGE LOGIN",
     "imageSrc": "projects/img10.jpg",
     "description": "This websites can collect user data,and enhance user experience.",
-    "skills": ["HTML", "CSS", "JS","React.js"],
+    "skills": ["HTML", "CSS","React.js"],
     "demo": "https://bhumika187.github.io/aeonaxy-project/",
     "source": "https://github.com/Bhumika187"
   }
